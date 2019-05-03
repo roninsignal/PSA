@@ -10,6 +10,6 @@ python nmap wrapper that scans a list of IP address (either given list or file).
 Know thyself
 
 # Author 
-Two kids in the middle of nowhere
+kid in the middle of nowhere
 
 
