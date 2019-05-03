@@ -7,7 +7,7 @@ TLDR: PyNMAP wrapper
 python nmap wrapper that scans a list of IP address (either given list or file). Results are then dropped into a file, csv, or json to be ... idk sent to a SIEM 
 
 # My Use
-Know thigh self
+Know thyself
 
 # Author 
 Two kids in the middle of nowhere
